@@ -1,8 +1,143 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
+
+\bibitem{kobayashi2019measurement}
+J.~Kobayashi, A.~Ogino, and S.~Inouye, ``Measurement of the variation of
+  electron-to-proton mass ratio using ultracold molecules produced from
+  laser-cooled atoms,'' {\em Nature Communications}, vol.~10, no.~1, pp.~1--5,
+  2019.
+
+\bibitem{andreev2018improved}
+V.~Andreev and N.~Hutzler, ``Improved limit on the electric dipole moment of
+  the electron,'' {\em Nature}, vol.~562, no.~7727, pp.~355--360, 2018.
+
+\bibitem{biesheuvel2016probing}
+J.~Biesheuvel, J.-P. Karr, L.~Hilico, K.~Eikema, W.~Ubachs, and J.~Koelemeij,
+  ``Probing qed and fundamental constants through laser spectroscopy of
+  vibrational transitions in hd+,'' {\em Nature Communications}, vol.~7,
+  p.~10385, 2016.
+
+\bibitem{ohmori2017special}
+K.~Ohmori, G.~Pupillo, J.~H. Thywissen, and M.~Weidem{\"u}ller, ``Special issue
+  on addressing many-body problems with cold atoms and molecules,'' {\em
+  Journal of Physics B: Atomic, Molecular and Optical Physics}, vol.~51, no.~2,
+  p.~020201, 2017.
+
+\bibitem{grandstrand:2004}
+D.~D. Susanne F.~Yelin and R.~Côté, ``Quantum information processing with
+  ultracold polar molecules,'' in {\em Cold Molecules: Theory, Experiment,
+  Applications} (R.~V. Krems, W.~C. Stwalley, and B.~Friedrich, eds.), ch.~17,
+  p.~629, CRC Press, 2009.
+
+\bibitem{soderberg2009ultracold}
+K.-A.~B. Soderberg, N.~Gemelke, and C.~Chin, ``Ultracold molecules: vehicles to
+  scalable quantum information processing,'' {\em New Journal of Physics},
+  vol.~11, no.~5, p.~055022, 2009.
+
+\bibitem{balakrishnan2016perspective}
+N.~Balakrishnan, ``Perspective: Ultracold molecules and the dawn of cold
+  controlled chemistry,'' {\em The Journal of Chemical Physics}, vol.~145,
+  no.~15, p.~150901, 2016.
+
+\bibitem{bohn2017cold}
+J.~L. Bohn, A.~M. Rey, and J.~Ye, ``Cold molecules: Progress in quantum
+  engineering of chemistry and quantum matter,'' {\em Science}, vol.~357,
+  no.~6355, pp.~1002--1010, 2017.
+
+\bibitem{demille2008enhanced}
+D.~DeMille, S.~Sainis, J.~Sage, T.~Bergeman, S.~Kotochigova, and E.~Tiesinga,
+  ``Enhanced sensitivity to variation of m e/m p in molecular spectra,'' {\em
+  Physical Review Letters}, vol.~100, no.~4, p.~043202, 2008.
+
+\bibitem{wei2011entanglement}
+Q.~Wei, S.~Kais, B.~Friedrich, and D.~Herschbach, ``Entanglement of polar
+  molecules in pendular states,'' {\em The Journal of Chemical Physics},
+  vol.~134, no.~12, p.~124107, 2011.
+
+\bibitem{de2011controlling}
+M.~De~Miranda, A.~Chotia, B.~Neyenhuis, D.~Wang, G.~Qu{\'e}m{\'e}ner,
+  S.~Ospelkaus, J.~Bohn, J.~Ye, and D.~Jin, ``Controlling the quantum
+  stereodynamics of ultracold bimolecular reactions,'' {\em Nature Physics},
+  vol.~7, no.~6, pp.~502--507, 2011.
+
+\bibitem{ospelkaus2008efficient}
+S.~Ospelkaus, A.~Pe’Er, K.-K. Ni, J.~Zirbel, B.~Neyenhuis, S.~Kotochigova,
+  P.~Julienne, J.~Ye, and D.~Jin, ``Efficient state transfer in an ultracold
+  dense gas of heteronuclear molecules,'' {\em Nature Physics}, vol.~4, no.~8,
+  pp.~622--626, 2008.
+
+\bibitem{park2015ultracold}
+J.~W. Park, S.~A. Will, and M.~W. Zwierlein, ``Ultracold dipolar gas of
+  fermionic na 23 k 40 molecules in their absolute ground state,'' {\em
+  Physical Review Letters}, vol.~114, no.~20, p.~205302, 2015.
+
+\bibitem{bressel2012manipulation}
+U.~Bressel, A.~Borodin, J.~Shen, M.~Hansen, I.~Ernsting, and S.~Schiller,
+  ``Manipulation of individual hyperfine states in cold trapped molecular ions
+  and application to hd+ frequency metrology,'' {\em Physical review letters},
+  vol.~108, no.~18, p.~183003, 2012.
+
+\bibitem{schneider2010all}
+T.~Schneider, B.~Roth, H.~Duncker, I.~Ernsting, and S.~Schiller, ``All-optical
+  preparation of molecular ions in the rovibrational ground state,'' {\em
+  Nature Physics}, vol.~6, no.~4, pp.~275--278, 2010.
+
+\bibitem{lien2011optical}
+C.-Y. Lien, S.~R. Williams, and B.~Odom, ``Optical pulse-shaping for internal
+  cooling of molecules,'' {\em Physical Chemistry Chemical Physics}, vol.~13,
+  no.~42, pp.~18825--18829, 2011.
 
 \bibitem{lien2014broadband}
 C.-Y. Lien, C.~M. Seck, Y.-W. Lin, J.~H. Nguyen, D.~A. Tabor, and B.~C. Odom,
   ``Broadband optical cooling of molecular rotors from room temperature to the
   ground state,'' {\em Nature Communications}, vol.~5, no.~1, pp.~1--7, 2014.
+
+\bibitem{almy1934band}
+G.~Almy and M.~Watson, ``The band spectrum of ionized aluminum hydride,'' {\em
+  Physical Review}, vol.~45, no.~12, p.~871, 1934.
+
+\bibitem{szajna2011high}
+W.~Szajna and M.~Zachwieja, ``High-resolution emission spectroscopy of the
+  a2$\pi$--x2$\sigma$+ system of alh+,'' {\em Journal of Molecular
+  Spectroscopy}, vol.~269, no.~1, pp.~56--60, 2011.
+
+\bibitem{western2017pgopher}
+C.~M. Western, ``Pgopher: A program for simulating rotational, vibrational and
+  electronic spectra,'' {\em Journal of Quantitative Spectroscopy and Radiative
+  Transfer}, vol.~186, pp.~221--242, 2017.
+
+\bibitem{le2017level}
+R.~J. Le~Roy, ``Level: A computer program for solving the radial
+  schr{\"o}dinger equation for bound and quasibound levels,'' {\em Journal of
+  Quantitative Spectroscopy and Radiative Transfer}, vol.~186, pp.~167--178,
+  2017.
+
+\bibitem{nguyen2011challenges}
+J.~H. Nguyen, C.~R. Viteri, E.~G. Hohenstein, C.~D. Sherrill, K.~R. Brown, and
+  B.~Odom, ``Challenges of laser-cooling molecular ions,'' {\em New Journal of
+  Physics}, vol.~13, no.~6, p.~063023, 2011.
+
+\bibitem{daltonpaper}
+K.~Aidas, C.~Angeli, K.~L. Bak, V.~Bakken, R.~Bast, L.~Boman, O.~Christiansen,
+  R.~Cimiraglia, S.~Coriani, P.~Dahle, E.~K. Dalskov, U.~Ekstr\"{o}m,
+  T.~Enevoldsen, J.~J. Eriksen, P.~Ettenhuber, B.~Fern\'{a}ndez, L.~Ferrighi,
+  H.~Fliegl, L.~Frediani, K.~Hald, A.~Halkier, C.~H\"{a}ttig, H.~Heiberg,
+  T.~Helgaker, A.~C. Hennum, H.~Hettema, E.~Hjerten\ae{}s, S.~H\o{}st, I.-M.
+  H\o{}yvik, M.~F. Iozzi, B.~Jans\'{i}k, H.~J.~{\relax Aa}. Jensen, D.~Jonsson,
+  P.~J\o{}rgensen, J.~Kauczor, S.~Kirpekar, T.~Kj\ae{}rgaard, W.~Klopper,
+  S.~Knecht, R.~Kobayashi, H.~Koch, J.~Kongsted, A.~Krapp, K.~Kristensen,
+  A.~Ligabue, O.~B. Lutn\ae{}s, J.~I. Melo, K.~V. Mikkelsen, R.~H. Myhre,
+  C.~Neiss, C.~B. Nielsen, P.~Norman, J.~Olsen, J.~M.~H. Olsen, A.~Osted, M.~J.
+  Packer, F.~Pawlowski, T.~B. Pedersen, P.~F. Provasi, S.~Reine,
+  Z.~Rinkevicius, T.~A. Ruden, K.~Ruud, V.~V. Rybkin, P.~Sa\l{}ek, C.~C.~M.
+  Samson, A.~S. de~Mer\'{a}s, T.~Saue, S.~P.~A. Sauer, B.~Schimmelpfennig,
+  K.~Sneskov, A.~H. Steindal, K.~O. Sylvester-Hvid, P.~R. Taylor, A.~M. Teale,
+  E.~I. Tellgren, D.~P. Tew, A.~J. Thorvaldsen, L.~Th\o{}gersen, O.~Vahtras,
+  M.~A. Watson, D.~J.~D. Wilson, M.~Ziolkowski, and H.~\AA{}gren, ``{The Dalton
+  quantum chemistry program system},'' {\em WIREs Comput.~Mol.~Sci.}, vol.~4,
+  no.~3, pp.~269--284, 2014.
+
+\bibitem{daltonwebpage}
+``Dalton, a molecular electronic structure program,'' 2018.
+\newblock Release v2018.2 (2018), see \url{http://daltonprogram.org}.
 
 \end{thebibliography}

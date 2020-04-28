@@ -4,44 +4,44 @@ The top-level auxiliary file: draft.aux
 The style file: ieeetr.bst
 Database file #1: draftNotes.bib
 Database file #2: ../AlH+_references.bib.bib
-You've used 1 entry,
+You've used 24 entries,
             1876 wiz_defined-function locations,
-            485 strings with 3761 characters,
-and the built_in function-call counts, 330 in all, are:
-= -- 28
-> -- 20
+            635 strings with 9868 characters,
+and the built_in function-call counts, 8806 in all, are:
+= -- 794
+> -- 568
 < -- 0
-+ -- 7
-- -- 6
-* -- 30
-:= -- 60
-add.period$ -- 1
-call.type$ -- 1
-change.case$ -- 1
++ -- 198
+- -- 174
+* -- 713
+:= -- 1308
+add.period$ -- 25
+call.type$ -- 24
+change.case$ -- 24
 chr.to.int$ -- 0
-cite$ -- 1
-duplicate$ -- 13
-empty$ -- 25
-format.name$ -- 6
-if$ -- 72
+cite$ -- 24
+duplicate$ -- 424
+empty$ -- 642
+format.name$ -- 174
+if$ -- 2085
 int.to.chr$ -- 0
-int.to.str$ -- 1
-missing$ -- 1
-newline$ -- 6
-num.names$ -- 1
-pop$ -- 1
+int.to.str$ -- 24
+missing$ -- 23
+newline$ -- 76
+num.names$ -- 25
+pop$ -- 49
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 8
+skip$ -- 356
 stack$ -- 0
-substring$ -- 16
-swap$ -- 5
+substring$ -- 486
+swap$ -- 233
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 0
-while$ -- 4
-width$ -- 2
-write$ -- 13
+while$ -- 71
+width$ -- 26
+write$ -- 259

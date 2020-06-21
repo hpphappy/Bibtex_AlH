@@ -91,14 +91,14 @@ C.-Y. Lien, C.~M. Seck, Y.-W. Lin, J.~H. Nguyen, D.~A. Tabor, and B.~C. Odom,
   ``Broadband optical cooling of molecular rotors from room temperature to the
   ground state,'' {\em Nature Communications}, vol.~5, no.~1, pp.~1--7, 2014.
 
-\bibitem{almy1934band}
-G.~Almy and M.~Watson, ``The band spectrum of ionized aluminum hydride,'' {\em
-  Physical Review}, vol.~45, no.~12, p.~871, 1934.
-
 \bibitem{szajna2011high}
 W.~Szajna and M.~Zachwieja, ``High-resolution emission spectroscopy of the
   a2$\pi$--x2$\sigma$+ system of alh+,'' {\em Journal of Molecular
   Spectroscopy}, vol.~269, no.~1, pp.~56--60, 2011.
+
+\bibitem{almy1934band}
+G.~Almy and M.~Watson, ``The band spectrum of ionized aluminum hydride,'' {\em
+  Physical Review}, vol.~45, no.~12, p.~871, 1934.
 
 \bibitem{western2017pgopher}
 C.~M. Western, ``Pgopher: A program for simulating rotational, vibrational and

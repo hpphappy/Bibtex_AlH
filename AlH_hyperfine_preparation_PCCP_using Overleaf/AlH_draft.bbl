@@ -1,0 +1,236 @@
+\providecommand*{\mcitethebibliography}{\thebibliography}
+\csname @ifundefined\endcsname{endmcitethebibliography}
+{\let\endmcitethebibliography\endthebibliography}{}
+\begin{mcitethebibliography}{25}
+\providecommand*{\natexlab}[1]{#1}
+\providecommand*{\mciteSetBstSublistMode}[1]{}
+\providecommand*{\mciteSetBstMaxWidthForm}[2]{}
+\providecommand*{\mciteBstWouldAddEndPuncttrue}
+  {\def\EndOfBibitem{\unskip.}}
+\providecommand*{\mciteBstWouldAddEndPunctfalse}
+  {\let\EndOfBibitem\relax}
+\providecommand*{\mciteSetBstMidEndSepPunct}[3]{}
+\providecommand*{\mciteSetBstSublistLabelBeginEnd}[3]{}
+\providecommand*{\EndOfBibitem}{}
+\mciteSetBstSublistMode{f}
+\mciteSetBstMaxWidthForm{subitem}
+{(\emph{\alph{mcitesubitemcount}})}
+\mciteSetBstSublistLabelBeginEnd{\mcitemaxwidthsubitemform\space}
+{\relax}{\relax}
+
+\bibitem[Kobayashi \emph{et~al.}(2019)Kobayashi, Ogino, and
+  Inouye]{kobayashi2019measurement}
+J.~Kobayashi, A.~Ogino and S.~Inouye, \emph{Nature Communications}, 2019,
+  \textbf{10}, 1--5\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Andreev and Hutzler(2018)]{andreev2018improved}
+V.~Andreev and N.~Hutzler, \emph{Nature}, 2018, \textbf{562}, 355--360\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Biesheuvel \emph{et~al.}(2016)Biesheuvel, Karr, Hilico, Eikema,
+  Ubachs, and Koelemeij]{biesheuvel2016probing}
+J.~Biesheuvel, J.-P. Karr, L.~Hilico, K.~Eikema, W.~Ubachs and J.~Koelemeij,
+  \emph{Nature Communications}, 2016, \textbf{7}, 10385\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Ohmori \emph{et~al.}(2017)Ohmori, Pupillo, Thywissen, and
+  Weidem{\"u}ller]{ohmori2017special}
+K.~Ohmori, G.~Pupillo, J.~H. Thywissen and M.~Weidem{\"u}ller, \emph{Journal of
+  Physics B: Atomic, Molecular and Optical Physics}, 2017, \textbf{51},
+  020201\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Susanne F.~Yelin and Côté(2009)]{grandstrand:2004}
+D.~D. Susanne F.~Yelin and R.~Côté, \emph{Cold Molecules: Theory, Experiment,
+  Applications}, CRC Press, 2009, ch.~17, p. 629\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Soderberg \emph{et~al.}(2009)Soderberg, Gemelke, and
+  Chin]{soderberg2009ultracold}
+K.-A.~B. Soderberg, N.~Gemelke and C.~Chin, \emph{New Journal of Physics},
+  2009, \textbf{11}, 055022\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Balakrishnan(2016)]{balakrishnan2016perspective}
+N.~Balakrishnan, \emph{The Journal of Chemical Physics}, 2016, \textbf{145},
+  150901\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Bohn \emph{et~al.}(2017)Bohn, Rey, and Ye]{bohn2017cold}
+J.~L. Bohn, A.~M. Rey and J.~Ye, \emph{Science}, 2017, \textbf{357},
+  1002--1010\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[DeMille \emph{et~al.}(2008)DeMille, Sainis, Sage, Bergeman,
+  Kotochigova, and Tiesinga]{demille2008enhanced}
+D.~DeMille, S.~Sainis, J.~Sage, T.~Bergeman, S.~Kotochigova and E.~Tiesinga,
+  \emph{Physical Review Letters}, 2008, \textbf{100}, 043202\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Kokish \emph{et~al.}(2018)Kokish, Stollenwerk, Kajita, and
+  Odom]{kokish2018prospects}
+M.~G. Kokish, P.~R. Stollenwerk, M.~Kajita and B.~C. Odom, \emph{Physical
+  Review A}, 2018, \textbf{98}, 052513\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Stollenwerk \emph{et~al.}(2018)Stollenwerk, Kokish, Oliveira-Filho,
+  Antonio, Ornellas, and Odom]{stollenwerk2018optical}
+P.~R. Stollenwerk, M.~G. Kokish, D.~Oliveira-Filho, G.~Antonio, F.~R. Ornellas
+  and B.~C. Odom, \emph{Atoms}, 2018, \textbf{6}, 53\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Wei \emph{et~al.}(2011)Wei, Kais, Friedrich, and
+  Herschbach]{wei2011entanglement}
+Q.~Wei, S.~Kais, B.~Friedrich and D.~Herschbach, \emph{The Journal of Chemical
+  Physics}, 2011, \textbf{134}, 124107\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[De~Miranda \emph{et~al.}(2011)De~Miranda, Chotia, Neyenhuis, Wang,
+  Qu{\'e}m{\'e}ner, Ospelkaus, Bohn, Ye, and Jin]{de2011controlling}
+M.~De~Miranda, A.~Chotia, B.~Neyenhuis, D.~Wang, G.~Qu{\'e}m{\'e}ner,
+  S.~Ospelkaus, J.~Bohn, J.~Ye and D.~Jin, \emph{Nature Physics}, 2011,
+  \textbf{7}, 502--507\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Bressel \emph{et~al.}(2012)Bressel, Borodin, Shen, Hansen, Ernsting,
+  and Schiller]{bressel2012manipulation}
+U.~Bressel, A.~Borodin, J.~Shen, M.~Hansen, I.~Ernsting and S.~Schiller,
+  \emph{Physical review letters}, 2012, \textbf{108}, 183003\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Schneider \emph{et~al.}(2010)Schneider, Roth, Duncker, Ernsting, and
+  Schiller]{schneider2010all}
+T.~Schneider, B.~Roth, H.~Duncker, I.~Ernsting and S.~Schiller, \emph{Nature
+  Physics}, 2010, \textbf{6}, 275--278\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Lien \emph{et~al.}(2011)Lien, Williams, and Odom]{lien2011optical}
+C.-Y. Lien, S.~R. Williams and B.~Odom, \emph{Physical Chemistry Chemical
+  Physics}, 2011, \textbf{13}, 18825--18829\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Lien \emph{et~al.}(2014)Lien, Seck, Lin, Nguyen, Tabor, and
+  Odom]{lien2014broadband}
+C.-Y. Lien, C.~M. Seck, Y.-W. Lin, J.~H. Nguyen, D.~A. Tabor and B.~C. Odom,
+  \emph{Nature Communications}, 2014, \textbf{5}, 1--7\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Aroch \emph{et~al.}(2018)Aroch, Kallush, and
+  Kosloff]{aroch2018optimizing}
+A.~Aroch, S.~Kallush and R.~Kosloff, \emph{Physical Review A}, 2018,
+  \textbf{97}, 053405\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Szajna and Zachwieja(2011)]{szajna2011high}
+W.~Szajna and M.~Zachwieja, \emph{Journal of Molecular Spectroscopy}, 2011,
+  \textbf{269}, 56--60\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Almy and Watson(1934)]{almy1934band}
+G.~Almy and M.~Watson, \emph{Physical Review}, 1934, \textbf{45}, 871\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Western(2017)]{western2017pgopher}
+C.~M. Western, \emph{Journal of Quantitative Spectroscopy and Radiative
+  Transfer}, 2017, \textbf{186}, 221--242\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Le~Roy(2017)]{le2017level}
+R.~J. Le~Roy, \emph{Journal of Quantitative Spectroscopy and Radiative
+  Transfer}, 2017, \textbf{186}, 167--178\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Nguyen \emph{et~al.}(2011)Nguyen, Viteri, Hohenstein, Sherrill, Brown,
+  and Odom]{nguyen2011challenges}
+J.~H. Nguyen, C.~R. Viteri, E.~G. Hohenstein, C.~D. Sherrill, K.~R. Brown and
+  B.~Odom, \emph{New Journal of Physics}, 2011, \textbf{13}, 063023\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Aidas \emph{et~al.}(2014)Aidas, Angeli, Bak, Bakken, Bast, Boman,
+  Christiansen, Cimiraglia, Coriani, Dahle, Dalskov, Ekstr\"{o}m, Enevoldsen,
+  Eriksen, Ettenhuber, Fern\'{a}ndez, Ferrighi, Fliegl, Frediani, Hald,
+  Halkier, H\"{a}ttig, Heiberg, Helgaker, Hennum, Hettema, Hjerten\ae{}s,
+  H\o{}st, H\o{}yvik, Iozzi, Jans\'{i}k, Jensen, Jonsson, J\o{}rgensen,
+  Kauczor, Kirpekar, Kj\ae{}rgaard, Klopper, Knecht, Kobayashi, Koch, Kongsted,
+  Krapp, Kristensen, Ligabue, Lutn\ae{}s, Melo, Mikkelsen, Myhre, Neiss,
+  Nielsen, Norman, Olsen, Olsen, Osted, Packer, Pawlowski, Pedersen, Provasi,
+  Reine, Rinkevicius, Ruden, Ruud, Rybkin, Sa\l{}ek, Samson, de~Mer\'{a}s,
+  Saue, Sauer, Schimmelpfennig, Sneskov, Steindal, Sylvester-Hvid, Taylor,
+  Teale, Tellgren, Tew, Thorvaldsen, Th\o{}gersen, Vahtras, Watson, Wilson,
+  Ziolkowski, and \AA{}gren]{daltonpaper}
+K.~Aidas, C.~Angeli, K.~L. Bak, V.~Bakken, R.~Bast, L.~Boman, O.~Christiansen,
+  R.~Cimiraglia, S.~Coriani, P.~Dahle, E.~K. Dalskov, U.~Ekstr\"{o}m,
+  T.~Enevoldsen, J.~J. Eriksen, P.~Ettenhuber, B.~Fern\'{a}ndez, L.~Ferrighi,
+  H.~Fliegl, L.~Frediani, K.~Hald, A.~Halkier, C.~H\"{a}ttig, H.~Heiberg,
+  T.~Helgaker, A.~C. Hennum, H.~Hettema, E.~Hjerten\ae{}s, S.~H\o{}st, I.-M.
+  H\o{}yvik, M.~F. Iozzi, B.~Jans\'{i}k, H.~J.~{\relax Aa}. Jensen, D.~Jonsson,
+  P.~J\o{}rgensen, J.~Kauczor, S.~Kirpekar, T.~Kj\ae{}rgaard, W.~Klopper,
+  S.~Knecht, R.~Kobayashi, H.~Koch, J.~Kongsted, A.~Krapp, K.~Kristensen,
+  A.~Ligabue, O.~B. Lutn\ae{}s, J.~I. Melo, K.~V. Mikkelsen, R.~H. Myhre,
+  C.~Neiss, C.~B. Nielsen, P.~Norman, J.~Olsen, J.~M.~H. Olsen, A.~Osted, M.~J.
+  Packer, F.~Pawlowski, T.~B. Pedersen, P.~F. Provasi, S.~Reine,
+  Z.~Rinkevicius, T.~A. Ruden, K.~Ruud, V.~V. Rybkin, P.~Sa\l{}ek, C.~C.~M.
+  Samson, A.~S. de~Mer\'{a}s, T.~Saue, S.~P.~A. Sauer, B.~Schimmelpfennig,
+  K.~Sneskov, A.~H. Steindal, K.~O. Sylvester-Hvid, P.~R. Taylor, A.~M. Teale,
+  E.~I. Tellgren, D.~P. Tew, A.~J. Thorvaldsen, L.~Th\o{}gersen, O.~Vahtras,
+  M.~A. Watson, D.~J.~D. Wilson, M.~Ziolkowski and H.~\AA{}gren, \emph{WIREs
+  Comput.~Mol.~Sci.}, 2014, \textbf{4}, 269--284\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[dal(2018)]{daltonwebpage}
+\emph{Dalton, a molecular electronic structure program}, 2018, Release v2018.2
+  (2018), see \url{http://daltonprogram.org}\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\end{mcitethebibliography}

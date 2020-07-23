@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  8 JUL 2020 16:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  10 JUL 2020 19:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2068,24 +2068,31 @@ Missing character: There is no £ in font cmti9!
 Missing character: There is no Ã in font cmti9!
 Missing character: There is no £ in font cmti9!
 
-<level_diagram_parity.png, id=1, 963.6pt x 341.275pt>
-File: level_diagram_parity.png Graphic file (type png)
 
-<use level_diagram_parity.png>
-Package pdftex.def Info: level_diagram_parity.png used on input line 76.
-(pdftex.def)             Requested size: 398.33858pt x 141.0745pt.
- <schematic_setup.png, id=3, 963.6pt x 321.2pt>
-File: schematic_setup.png Graphic file (type png)
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./level_diagram_parity.pdf):
+ PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
+<level_diagram_parity.pdf, id=1, 963.65018pt x 341.29506pt>
+File: level_diagram_parity.pdf Graphic file (type pdf)
 
-<use schematic_setup.png>
-Package pdftex.def Info: schematic_setup.png used on input line 84.
-(pdftex.def)             Requested size: 398.33858pt x 132.776pt.
+<use level_diagram_parity.pdf>
+Package pdftex.def Info: level_diagram_parity.pdf used on input line 76.
+(pdftex.def)             Requested size: 398.33858pt x 141.07758pt.
+
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./schematic_setup.pdf): PDF 
+inclusion: found PDF version <1.6>, but at most version <1.5> allowed
+<schematic_setup.pdf, id=2, 963.65018pt x 321.22006pt>
+File: schematic_setup.pdf Graphic file (type pdf)
+
+<use schematic_setup.pdf>
+Package pdftex.def Info: schematic_setup.pdf used on input line 84.
+(pdftex.def)             Requested size: 398.33858pt x 132.77937pt.
  [1{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 Underfull \hbox (badness 1655) in paragraph at lines 108--109
 \OT1/cmr/m/n/10 by Hund's case (b), with good quan-tum num-bers
  []
 
-[2 <./level_diagram_parity.png> <./schematic_setup.png>]
+[2 <./level_diagram_parity.pdf> <./schematic_setup.pdf>]
 Underfull \hbox (badness 1117) in paragraph at lines 225--225
 []\OT1/cmr/bx/n/10 TABLE IV: |\OT1/cmr/m/n/10 Hy-per-fine con-stants of AlH$[]$
  in terms of Frosch-Foley co-ef-fi-cients and pa-ram-e-ters of nu-clear 
@@ -2096,19 +2103,23 @@ Underfull \hbox (badness 1472) in paragraph at lines 271--272
 []\OT1/cmr/m/n/10 Additionally, we use Le Roy's LEVEL$[]$ to cal-
  []
 
-<RC_RCV10.png, id=44, 880.9713pt x 614.295pt>
-File: RC_RCV10.png Graphic file (type png)
- <use RC_RCV10.png>
-Package pdftex.def Info: RC_RCV10.png used on input line 283.
-(pdftex.def)             Requested size: 312.9803pt x 218.2309pt.
+<RC_RCV10.pdf, id=47, 939.51pt x 722.7pt>
+File: RC_RCV10.pdf Graphic file (type pdf)
+ <use RC_RCV10.pdf>
+Package pdftex.def Info: RC_RCV10.pdf used on input line 283.
+(pdftex.def)             Requested size: 312.9803pt x 240.75237pt.
 
-<RCHC_RCHCV10.png, id=45, 1247.3802pt x 707.7642pt>
-File: RCHC_RCHCV10.png Graphic file (type png)
- <use RCHC_RCHCV10.png>
-Package pdftex.def Info: RCHC_RCHCV10.png used on input line 291.
-(pdftex.def)             Requested size: 469.47046pt x 266.37209pt.
+<RCHC_RCHCV10.pdf, id=48, 1517.67pt x 794.97pt>
+File: RCHC_RCHCV10.pdf Graphic file (type pdf)
+ <use RCHC_RCHCV10.pdf>
+Package pdftex.def Info: RCHC_RCHCV10.pdf used on input line 291.
+(pdftex.def)             Requested size: 469.47046pt x 245.90442pt.
+ [5]
+[6 <./RC_RCV10.pdf> <./RCHC_RCHCV10.pdf
 
-[5] [6 <./RC_RCV10.png> <./RCHC_RCHCV10.png>]
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./RCHC_RCHCV10.pdf): PDF inc
+lusion: multiple pdfs with page group included in a single page
+>]
 
 LaTeX Warning: A float is stuck (cannot be placed); try class option [floatfix]
  on input line 341.
@@ -2165,10 +2176,10 @@ e/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive
 017/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb></usr/local/texlive/201
 7/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb></usr/local/texlive/2017/
 texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on draft.pdf (8 pages, 1411330 bytes).
+Output written on draft.pdf (8 pages, 3949652 bytes).
 PDF statistics:
- 145 PDF objects out of 1000 (max. 8388607)
- 100 compressed objects within 1 object stream
+ 204 PDF objects out of 1000 (max. 8388607)
+ 140 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
